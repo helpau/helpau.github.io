@@ -31,7 +31,6 @@ github_username:  helpau
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-metrics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,9 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-jekyll_metrics:
-  yandex_metrica_id: 91148673,
-  google_analytics_id: 22-222222222-2
 
 published: true
 future: true
